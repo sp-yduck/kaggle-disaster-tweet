@@ -21,7 +21,7 @@
   Mac/Linux
 
   ```bash
-  source [same as the upper one]/bin/actibate
+  source [same as the upper one]/bin/activate
   ```
 
 - step1: install python packages
@@ -59,3 +59,8 @@ python main.py [config file path] --train
 ```bash
 python main.py [config file path] --test
 ```
+
+
+# License
+The source code is licensed MIT.
+see LICENSE.
