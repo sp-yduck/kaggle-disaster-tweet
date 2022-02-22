@@ -1,5 +1,7 @@
 # Natural Language Processing with Disaster Tweets (Kaggle)
 
+A NLP base line with Kaggle-Disaster-Tweets Dataset
+
 - Competition site URL (https://www.kaggle.com/c/nlp-getting-started)
 
 ## How to Use
