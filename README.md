@@ -6,7 +6,7 @@ A NLP base line with Kaggle-Disaster-Tweets Dataset
 
 ## How to Use
 
-### installatino requirements
+### installation requirements
 
 - step0 (Optional): set up virtual environment
 
